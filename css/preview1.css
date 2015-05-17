@@ -1,0 +1,71 @@
+iframe
+{
+	position:relative;
+	top:30px;
+	left:0px;
+	overflow:hidden;
+	border:1px solid black;
+	width:17.5cm;
+	height:20.5cm;
+}
+#preview
+{
+	text-align:center;
+	width:16.5cm;
+	height:19.5cm;
+	font-family:times new roman;
+	font-size:12px;
+}
+#para_institute
+{
+font-size:20px;
+padding:20px 0px 0px 0px;
+}
+
+#para_extension
+{
+font-weight:bold;
+}
+#para_mesra
+{
+font-weight:bold;
+}
+#para_certificate
+{
+text-transform:uppercase;
+padding:70px 0px 50px 0px;
+font-weight:bold;
+}
+#line_1
+{
+margin:0px 60px;
+line-height:300%;
+}
+#line_2 
+{
+margin:30px 60px;
+}
+#line_3
+{
+margin:0px 80px;
+line-height:180%;
+}
+#line_4
+{
+margin:30px 80px;
+line-height:180%;
+}
+#line_5
+{
+margin:90px 80px;
+line-height:180%;
+}
+#name,#roll,#dide,#rofl,#cond,#exte
+{
+font-weight:bold;
+}
+#name:hover,#roll:hover,#dide:hover,#exte:hover,#yofj:hover,#yofp:hover
+{
+background:#f8f888;
+cursor:pointer
+}

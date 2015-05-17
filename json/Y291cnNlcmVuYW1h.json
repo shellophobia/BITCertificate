@@ -1,0 +1,4 @@
+{
+	"degree":[{"bachelor of engineering":[{"cid":"BE"},[{"branch":"computer science","prefix":"cse"},{"branch":"electronics and communication engineering","prefix":"ece"}]]},{"masters of engineering":[{"cid":"ME"},[{"branch":"computer science","prefix":"cse"}]]}],
+	"diploma":[]
+}

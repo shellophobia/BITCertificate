@@ -1,0 +1,44 @@
+#col-edit
+{
+border-left:1px outset black;padding:10px;min-height:100%;background:#eee;margin:-20px 0px;min-height:27cm;
+}
+#hover:hover
+{
+color:black;
+background:white;
+cursor:click;
+}
+
+.no_style{list-style-type:none}
+h2{ padding:0px;margin:0px 0px 10px 0px;border-bottom:1px solid }
+
+#bitbutton
+{
+box-shadow:2px 1px 1px 1px ;
+background:#073350;
+}
+.go_hide
+{
+visibility:hidden;
+position:absolute;
+}
+#lock
+{
+position:fixed;top:0%;left:0%;bottom:0%;right:0%;background:none;opacity:0.7;z-index:-1;padding:10%;
+}
+hr{
+height:1px;
+margin:9px 0;
+overflow:hidden;
+background-color:#e5e5e5;
+}
+#spdiv{
+	width:438px;
+	background:#eee;
+	border-radius:6px;
+	box-shadow:1px 1px 20px 0.5px #073350;
+	padding:10px;
+}
+.select{
+	width:220px;
+}

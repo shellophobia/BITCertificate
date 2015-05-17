@@ -1,0 +1,49 @@
+.scheduler-border
+{
+	border: 2px outset #fff;
+	padding:10px;    
+	background:#99b2e6;
+}
+
+#ext_list hr,hr {
+border-style: solid none;
+border-width: 1px;
+margin: 18px 0;
+}
+.form-signin
+{
+padding:30px;
+width:auto;
+}
+
+.form-control
+{
+margin:1px;
+}
+
+#bitbutton
+{
+box-shadow:2px 1px 1px 1px ;
+background:#428bca;
+}
+.format
+{
+background:white;
+padding:10px;
+}
+
+#small_preview
+{
+width:390px;
+height:450px;
+}
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+#between
+{
+	visibility:hidden;
+	position:absolute;
+}

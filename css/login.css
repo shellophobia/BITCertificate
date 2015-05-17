@@ -1,0 +1,23 @@
+.form-signin
+{
+padding:30px;
+border-radius:30px;
+border:1px solid #428bca;
+}
+#bitbutton
+{
+box-shadow: 2px 2px 2px #2c539e,inset 1px 1px 1px 1px rgba(76,198,232,0.3);
+background:#428bca;
+color:#f8f8f8;
+width:60%;
+border: 1px solid #2c539e;
+}
+#bitbutton:active{
+box-shadow: inset 1px 1px 1px rgba(76,198,232,0.3);
+margin-left:3px;
+margin-top:3px;
+}
+.active
+{
+border-radius:8px;
+}
